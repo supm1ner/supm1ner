@@ -68,7 +68,7 @@ Security       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supm1ner&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supm1ner&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supm1ner&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 
 </div>
 
@@ -93,7 +93,7 @@ Security       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
 <div align="center">
 
 ```text
-"Code is like humor. When you have to explain it, it's bad."
+dont like kid's mc servers.
 ```
 
 **[Contact Me](https://t.me/supm1ner)**

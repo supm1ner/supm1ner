@@ -66,9 +66,9 @@ Security       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supm1ner&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supm1ner&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supm1ner&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supm1ner&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
 </div>
 

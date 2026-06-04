@@ -97,7 +97,7 @@ Security       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
 <div align="center">
 
 ```text
-dont like kid's mc servers.
+contact me: @supm1ner (tg)
 ```
 
 **[Contact Me](https://t.me/supm1ner)**

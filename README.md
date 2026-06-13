@@ -25,9 +25,46 @@ const supminer = {
     role: ["Full Stack Developer", "Penetration Tester"],
     focus: ["Cybersecurity", "Secure Application Development"],
     interests: ["Low-level Programming", "Web Security", "System Architecture"],
-    currentlyLearning: "Advanced Exploitation Techniques"
+    currentlyLearning: "Advanced Exploitation Techniques",
+    startup: "Building Sunrise — next-gen secure ecosystem"
 };
 ```
+
+--- 
+
+## 🚀 Startup: Sunrise
+
+Building **Sunrise** — a next-gen secure ecosystem. Details coming soon.
+
+[🌐 sunrise-id.ru](https://sunrise-id.ru)
+
+--- 
+
+## 📦 Featured Projects
+
+### [NexChat](https://github.com/supm1ner/NexChat) 
+Real-time messenger with modern architecture. *(Python)*
+
+### [infocigans](https://github.com/supm1ner/infocigans) 
+Information security platform for young millionaires. *(Python)* ⭐
+
+### [lyrycs-video-generator](https://github.com/supm1ner/lyrycs-video-generator) 
+Automated lyrics video generation tool. *(Python)*
+
+### [esp-sysmonitor](https://github.com/supm1ner/esp-sysmonitor) 
+ESP32-based system performance monitor. *(C++)*
+
+### [imgbombs](https://github.com/supm1ner/imgbombs) 
+Decompression bomb generator for security testing. *(Python)*
+
+### [busines-bot](https://github.com/supm1ner/busines-bot) 
+Automation bot for business workflows. *(Python)*
+
+### [web-collector](https://github.com/supm1ner/web-collector) 
+Web data collection utility. *(HTML/JavaScript)*
+
+### [first-try-godot](https://github.com/supm1ner/first-try-godot) 
+First game attempt in Godot engine. *(GDScript)*
 
 ---
 

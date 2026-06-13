@@ -26,17 +26,21 @@ const supminer = {
     focus: ["Cybersecurity", "Secure Application Development"],
     interests: ["Low-level Programming", "Web Security", "System Architecture"],
     currentlyLearning: "Advanced Exploitation Techniques",
-    startup: "Building Sunrise — next-gen secure ecosystem"
+    startup: "Building Sunrise — secure ecosystem"
 };
 ```
 
 --- 
 
-## 🚀 Startup: Sunrise
+## Startup: Sunrise
 
-Building **Sunrise** — a next-gen secure ecosystem. Details coming soon.
+```text
+     ☀  SUNRISE
+     Building a next-gen secure ecosystem
+     Status: In Development
+```
 
-[🌐 sunrise-id.ru](https://sunrise-id.ru)
+[![sunrise-id.ru](https://img.shields.io/badge/sunrise--id.ru-000000?style=flat-square&logo=icloud&logoColor=white)](https://sunrise-id.ru)
 
 --- 
 
